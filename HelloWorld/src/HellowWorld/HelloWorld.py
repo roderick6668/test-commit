@@ -3,7 +3,7 @@ Created on Sep 14, 2022
 
 @author: roderickf
 '''
-
+#test version
 
 
 minPower = 6
